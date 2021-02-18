@@ -1,4 +1,4 @@
-## USAA_OrganizeStatements.ps1
+## [USAA_OrganizeStatements.ps1](https://github.com/Howjadoo/USAATools/blob/main/USAA_OrganizeStatements/USAA_OrganizeStatements.ps1)
 
 ### Windows PowerShell script to organize downloaded USAA PDFs into a folder hierarchy like this:
 
