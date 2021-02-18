@@ -3,7 +3,7 @@ Tools for USAA Banking and Insurance clients
 
 ## [USAA_OrganizeStatements](https://github.com/Howjadoo/USAATools/tree/main/USAA_OrganizeStatements)
 
-Organize downloaded USAA PDFs into a folder hierarchy like this:
+Windows PowerShell script to organize downloaded USAA PDFs into a folder hierarchy like this:
 
 * USAA Organized
    * 2019
