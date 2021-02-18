@@ -1,6 +1,6 @@
 ## USAA_OrganizeStatements.ps1
 
-Organize downloaded USAA PDFs into a folder hierarchy like this:
+### Windows PowerShell script to organize downloaded USAA PDFs into a folder hierarchy like this:
 
 * USAA Organized
    * 2019
