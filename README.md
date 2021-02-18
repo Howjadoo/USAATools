@@ -16,6 +16,9 @@ Organize downloaded USAA PDFs into a folder hierarchy like this:
       * Deposit Disclosure
       * Homeowners Insurance
       * Investments
+         * 6543
+         * 8621
+         * 8249 
       * Life Insurance
       * Policy Bills
       * Renters Insurance
