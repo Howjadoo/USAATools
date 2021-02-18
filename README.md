@@ -3,7 +3,7 @@ Tools for USAA Banking and Insurance clients
 
 ## USAA_OrganizeStatements.ps1
 
-Organize downloaded USAA PDFs into a folder hierarchy like:
+Organize downloaded USAA PDFs into a folder hierarchy like this:
 
 * USAA Organized
    * 2019
@@ -13,7 +13,15 @@ Organize downloaded USAA PDFs into a folder hierarchy like:
          * 1234
          * 3456
          * 5678
+      * Deposit Disclosure
+      * Homeowners Insurance
       * Investments
+      * Life Insurance
+      * Policy Bills
+      * Renters Insurance
+      * Umbrella Insurance
+      * Valuable Personal Property
+      * Wire Tranfers
    * 2021
 * USAA Inbox Duplicates
 * USAA Inbox - No Valid Doc Type
