@@ -1,7 +1,7 @@
 # USAATools
 Tools for USAA Banking and Insurance clients
 
-## [USAA_OrganizeStatements](fff)
+## [USAA_OrganizeStatements](https://github.com/Howjadoo/USAATools/tree/main/USAA_OrganizeStatements)
 
 Organize downloaded USAA PDFs into a folder hierarchy like this:
 
