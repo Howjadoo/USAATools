@@ -35,6 +35,6 @@ Organize downloaded USAA PDFs into a folder hierarchy like this:
 1. Again, right-click *[USAA_OrganizeStatements.ps1](https://github.com/Howjadoo/USAATools/blob/main/USAA_OrganizeStatements/USAA_OrganizeStatements.ps1)* and re-run the PowerShell script.
 1. All files in the folder "USAA Inbox" will be moved to one of these three folders:
    1. "USAA Organized"
-   2. "USAA Inbox Duplicates"
-   3. "USAA Inbox - No Valid Doc Type"
+   1. "USAA Inbox Duplicates"
+   1. "USAA Inbox - No Valid Doc Type"
 1. Files in "USAA Organized" will be organized into subfolders based on year, the type of PDF (Auto, Insurance, etc), and the account number.
