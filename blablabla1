@@ -1,1 +1,1 @@
-select current_timestamp
+select {{affiliatecode}} || 'test111', current_timestamp
